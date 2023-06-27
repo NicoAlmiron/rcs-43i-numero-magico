@@ -1,4 +1,4 @@
-import '/../node_modules/bootstrap/dist/js/bootstrap.bundle.js';
+import './../node_modules/bootstrap/dist/js/bootstrap.bundle.js';
 // inicializaciones
 const jugar = document.getElementById('jugar');
 const carta = document.getElementById('carta');
